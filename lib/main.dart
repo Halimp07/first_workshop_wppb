@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
               },
               label: const Text('Approve'),
               icon: const Icon(Icons.thumb_up),
-              backgroundColor: Colors.blue,
+              backgroundColor: Colors.red,
         ),
       ),
     );
